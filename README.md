@@ -9,7 +9,7 @@ A small Finance App created by a student, If you whant to know how it works read
 - Add/Track Transactions
 
 ## Installation
-1. Clone the repo: `git clone <repo_url>`
+1. Clone the repo: `git clone https://github.com/b3tm2n/finance-app-.git`
 2. Backend:
    - Navigate to `server/`
    - Install requirements: `pip install -r requirements.txt`
